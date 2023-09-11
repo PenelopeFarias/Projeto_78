@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(252, 249, 179);
+}
+
+#bt
+{
+    color: rgb(192, 156, 183);
+    font-size: 20px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 20px
+}
